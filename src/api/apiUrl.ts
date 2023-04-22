@@ -1,0 +1,1 @@
+export const dataBaseApi = 'https://api.tvmaze.com/';
